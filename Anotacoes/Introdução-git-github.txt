@@ -126,7 +126,13 @@ $ git push –set-upstream <nome_curto> <nome_do_branch>
 
 ## **git fetch**
 
-> - Quando você precisa baixar as mudanças criadas por outros membros do seu projeto colaborativo, você precisa do comando Git fetch. A partir desse comando, você irá receber todas as informações de commits, para avaliar, antes de aplicar essas alterações na sua versão local do repositório.
+> - Quando você precisa baixar as mudanças criadas por outros
+membros do seu projeto colaborativo, você precisa do comando
+Git fetch. 
+> - A partir desse comando, você irá receber todas as informações 
+de commits, para avaliar, antes de aplicar essas alterações na sua 
+
+versão local do repositório.
 
 Exemplo:
 
@@ -152,7 +158,9 @@ $ git rm <nome_do_arquivo>
 
 ##**git merge**
 
-> - Esse comando Git integra as mudanças de dois branches diferentes em um único branch. Ele precisa ser iniciado a partir de um branch já selecionado, que será mesclado com outro, com o nome passado por parâmetro.
+> - Esse comando Git integra as mudanças de dois branches diferentes em um único branch. 
+Ele precisa ser iniciado a partir de um branch já selecionado, que será mesclado com outro, 
+com o nome passado por parâmetro.
 
 Exemplo:
 
