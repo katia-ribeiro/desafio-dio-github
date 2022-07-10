@@ -3,10 +3,12 @@
 Desafio de projeto da [DIO](https://www.dio.me/), conteúdo Git/GitHub.
 
 Anotações:
-Introdução-git-github.txt
 
-Introdução HTML5 e CSS3
-   > - Criação de websites.txt
+> Introdução-git-github.txt
+
+> Introdução HTML5 e CSS3
+
+     > -Criação de websites.txt
 
 ## Links utilizados:
 
