@@ -2,7 +2,16 @@
 
 Desafio de projeto da [DIO](https://www.dio.me/), conteúdo Git/GitHub.
 
+KatiaWeb:
+
+> -Imagens
+
+> Index
+
+> Style
+
 Anotações:
+
 > Introdução a Flex Box
 
     > -Introdução Flex Box
