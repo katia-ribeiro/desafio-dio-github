@@ -20,7 +20,6 @@ div img{
     max-width: 992px;
     margin: auto;
     width: 100%;
-    min-height: 320px;
 }
 header{
     background-color: #122a57;
@@ -35,10 +34,10 @@ display: flex;
 max-width: 260px;
 width: 100%;
 align-items: center;
-
 }
 .list-items li a{
 color: #fff;
+padding: 10px;
 
 }
 header .menu{
