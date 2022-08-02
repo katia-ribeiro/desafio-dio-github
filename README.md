@@ -63,3 +63,25 @@ project-flexbox-dio:
 
 [Unsplash](https://unsplash.com/) para busca de imagens, ótima qualidade de imagem.
 
+[git da orientadora dos projetos javascript](https://github.com/stebsnusch/basecamp-javascript) tem algumas melhorias a ser feitas nesses projetos
+a orientadora indicou que:
+To-do list
+Neste projeto, iremos criar uma simples lista de tarefas.
+
+Instruções
+Antes de clonar o projeto, tente fazer seguindo as instruções abaixo:
+
+Crie um campo de input de texto e um botão para adicionar a tarefa à lista;
+Quando o botão for pressionado, o texto deve aparecer na lista com um checkbox ao lado;
+Quando o usuário selecionar o checkbox, o item correspondente deve ficar com o texto riscado. (ex.: tarefa completa. dica: você pode resolver isso facilmente com CSS)
+
+Contador
+Neste projeto, iremos fazer a nossa primeira integração de um código Javascript com uma página HTML.
+
+Dicas
+Caso você queira ir além, aqui estão algumas dicas de coisas para tentar:
+
+Tente implementar os eventos usando o método addEventListener.
+Crie condicionais que desabilitam o botão de incrementar ou decrementar quando count chegar a um determinado valor (ex.: 0 <= count =< 10).
+Mude a cor do texto em CURRENT_NUMBER para vermelho quando o número for negativo.
+
